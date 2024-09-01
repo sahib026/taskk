@@ -1,0 +1,14 @@
+.photo{
+    float: left;
+}
+p{
+    display: inline;
+}
+h2{
+     text-align: center;
+}
+.text{
+    width: 1350px;
+    height: 500px;
+    
+}
